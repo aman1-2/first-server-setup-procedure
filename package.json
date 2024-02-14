@@ -1,0 +1,21 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "The first ever serve creation Guideline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aman Pratap Singh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.0",
+    "mongose": "^0.0.2-security"
+  }
+}
